@@ -1,6 +1,4 @@
 
----
-
 # Java 21 Game
 
 ## Description
@@ -31,5 +29,3 @@ Contributions to the project are welcome. If you have ideas or improvements, fee
 
 ## License
 This project is made available under the [MIT License](LICENSE).
-
----
