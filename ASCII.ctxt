@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ASCII
+comment1.params=dado1\ dado2
+comment1.target=void\ exibirCombinacaoDeDados(int,\ int)
+comment2.params=lado
+comment2.target=void\ exibirDado(int)
+numComments=3

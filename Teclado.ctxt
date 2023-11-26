@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Teclado
+comment0.text=Classe\ que\ permite\ fazer\ leitura\ de\ dados\ do\ tecladeo
+comment1.params=
+comment1.target=int\ leInt()
+comment1.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ inteiro.\r\n\ \ \ \ \ \ \ \ @return\ int\r\n
+comment2.params=msg
+comment2.target=int\ leInt(java.lang.String)
+comment2.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ inteiro,\ com\ mensagem.\r\n\ \ \ \ \ \ \ \ @return\ int\r\n
+comment3.params=
+comment3.target=double\ leDouble()
+comment3.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ double.\r\n\ \ \ \ \ \ \ \ @return\ double\r\n
+comment4.params=msg
+comment4.target=double\ leDouble(java.lang.String)
+comment4.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ double,\ com\ mensagem.\r\n\ \ \ \ \ \ \ \ @return\ double\r\n
+comment5.params=
+comment5.target=java.lang.String\ leString()
+comment5.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ string.\r\n\ \ \ \ \ \ \ \ @return\ String\r\n
+comment6.params=msg
+comment6.target=java.lang.String\ leString(java.lang.String)
+comment6.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ string.\ com\ mensagem.\r\n\ \ \ \ \ \ \ \ @return\ String\r\n
+comment7.params=
+comment7.target=char\ leChar()
+comment8.params=msg
+comment8.target=char\ leChar(java.lang.String)
+comment8.text=\r\n\ \ \ \ \ \ \ \ L\u00EA\ um\ char,\ com\ mensagem.\r\n\ \ \ \ \ \ \ \ @return\ char\r\n
+numComments=9

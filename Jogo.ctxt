@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Jogo
+comment1.params=
+comment1.target=Jogo()
+comment10.params=
+comment10.target=boolean\ desejaJogarNovamente()
+comment2.params=nomeJogador1
+comment2.target=void\ setNomeJogador1(Jogador)
+comment3.params=nomeJogador2
+comment3.target=void\ setNomeJogador2(Jogador)
+comment4.params=
+comment4.target=Jogador\ getNomeJogador1()
+comment5.params=
+comment5.target=Jogador\ getNomeJogador2()
+comment6.params=
+comment6.target=void\ inicioJogo()
+comment7.params=
+comment7.target=void\ comecaJogo()
+comment8.params=jogador
+comment8.target=void\ jogada(Jogador)
+comment9.params=
+comment9.target=void\ exibirResultadoFinal()
+numComments=11

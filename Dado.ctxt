@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dado
+comment1.params=cor
+comment1.target=Dado(java.lang.String)
+comment2.params=dadoLados
+comment2.target=void\ setDadoLados(int)
+comment3.params=cor
+comment3.target=void\ setCor(java.lang.String)
+comment4.params=
+comment4.target=int\ getDadoLados()
+comment5.params=
+comment5.target=java.lang.String\ getCor()
+comment6.params=
+comment6.target=int\ jogarDado()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
